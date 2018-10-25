@@ -1,0 +1,13 @@
+{
+    "app": {
+      "dbConfig": {
+        "host": "localhost",
+        "port": 5432,
+        "dbName": "inventory"
+      },
+      "api": {
+        "port": 8080,
+        "host": "localhost"
+      }
+    }
+  }
